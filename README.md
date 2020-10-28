@@ -1,4 +1,4 @@
-### Hi there 👋 I am Akshay, I love writing code and interested in FOSS.
+### Hi there, I am Akshay, I love writing code and interested in FOSS.
 
 <!--
 **nakshay/nakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
