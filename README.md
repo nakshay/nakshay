@@ -3,7 +3,7 @@
 I work on side projects in my free time which are mostly open sourced on GitHub. I also write tech blogs.   
 ✨ https://akshaynaik.net ✨
 <!--
-**nakshay/nakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nakshay/nakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile occasionally.
 
 Here are some ideas to get you started:
 
