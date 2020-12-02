@@ -1,6 +1,7 @@
 ### Hi there, I am Akshay. I love writing code and interested in FOSS.
 
-I work on side projects in my free time which are mostly open sourced on GitHub. I also write tech blogs occasionally https://akshaynaik.net
+I work on side projects in my free time which are mostly open sourced on GitHub.  
+I also write tech blogs occasionally. You can find more on https://akshaynaik.net.
 <!--
 **nakshay/nakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile occasionally.
 
